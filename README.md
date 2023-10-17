@@ -14,3 +14,6 @@ Commands:
 - /gm
 - /ban
 - /unban
+
+Permission:
+- basicx.admin
