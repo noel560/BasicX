@@ -1,4 +1,5 @@
 #BasicX
+
 Commands:
 - /day
 - /night
