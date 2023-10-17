@@ -1,4 +1,4 @@
-#BasicX
+BasicX
 
 Commands:
 - /day
