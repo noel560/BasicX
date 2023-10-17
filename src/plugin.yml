@@ -1,0 +1,32 @@
+main: mc.basicx.xyz.Main
+version: 1.0
+name: BasicX
+author: Noel54
+
+commands:
+  day:
+    description: It will be day
+  night:
+    description: It will be night
+  help:
+    description: It shows the commands that are in the plugin
+  gmc:
+    description: Gamemode creative
+  gms:
+    description: Gamemode survival
+  gma:
+    description: Gamemode adventure
+  gmsp:
+    description: Gamemode spectator
+  gm:
+    description: Gamemode changer
+  ban:
+    description: Ban people
+  unban:
+    description: Unban people
+  rain:
+    description: Set the weather to rain
+  wclear:
+    description: Set the weather to clear
+  thunder:
+    description: Set the weather to rain & thunder
