@@ -1,6 +1,7 @@
 BasicX
 
 Commands:
+
 - /day
 - /night
 - /rain
@@ -16,4 +17,5 @@ Commands:
 - /unban
 
 Permission:
+
 - basicx.admin
